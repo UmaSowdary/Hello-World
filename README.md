@@ -1,2 +1,2 @@
 # Hello-World
-Welcome to my world of git IN HELLO WORL
+Welcome to my world of git in Hello World
